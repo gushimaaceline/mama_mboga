@@ -1,3 +1,1 @@
-Developed a python e-commerce site  which allows cosumers to check available products, 
-their quantity,prices and costumers can oder products of the choices  to be delieverd,
-The also give options for modes of payment. 
+Developed a python e-commerce site which allows consumers to check available products, their quantity,prices and customers can order products of the choices to be delivered, They also give options for modes of payment.
